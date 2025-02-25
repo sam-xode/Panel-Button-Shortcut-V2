@@ -51,13 +51,13 @@ The panel includes a simple counter function:
 
 ## 🖼️ Screenshots
 
-![SamXode Panel Dark Theme](/screenshots/dark-theme.png)
+![SamXode Panel Dark Theme](https://arrow-wing-897.notion.site/image/attachment%3A7a880cd0-df46-47f0-92c1-e5a018d143c4%3Aimage.png?table=block&id=1a5c089c-b470-803a-a8a9-ceeb2ebec7ea&spaceId=12427a77-ab6b-4a2b-92db-1330e9dfdf1b&width=1270&userId=&cache=v2)
 *Dark Theme (Default)*
 
-![SamXode Panel Light Theme](/screenshots/light-theme.png)
+![SamXode Panel Light Theme](https://arrow-wing-897.notion.site/image/attachment%3A858b868f-3209-4fc3-8246-ebee3422eb4a%3Aimage.png?table=block&id=1a5c089c-b470-806d-bf7f-e72865689388&spaceId=12427a77-ab6b-4a2b-92db-1330e9dfdf1b&width=1300&userId=&cache=v2)
 *Light Theme*
 
-![SamXode Panel Button Edit](/screenshots/edit-button.png)
+![SamXode Panel Button Edit](https://arrow-wing-897.notion.site/image/attachment%3A4816c6d4-3dec-4db0-838a-7b65ceeff3b6%3Aimage.png?table=block&id=1a5c089c-b470-804a-97df-e1d1791de76a&spaceId=12427a77-ab6b-4a2b-92db-1330e9dfdf1b&width=780&userId=&cache=v2)
 *Button Edit Dialog*
 
 ## ⚙️ Customization
